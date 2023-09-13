@@ -1,4 +1,5 @@
 This project simulates the Simon Game.
+It is made using HTML, CSS and Javascript.
 The screen will show 4 colours in a square fashion and the user has to enter a key to start the game.
 The game starts from Level 1 to all the way till the user chooses a wrong color.
 One of the colors will flash and the user has to select that color.
